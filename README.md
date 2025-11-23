@@ -149,7 +149,7 @@ The application comes with 4 pre-built templates:
 Planned enhancements:
 
 1. Structure reports according to a common data standard/ontology
-2. Add local LLM configuration
+2. Automatically select template by the modality and type of the report
 3. Add export functionality (CSV, JSON)
 
 ## License
